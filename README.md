@@ -1,2 +1,3 @@
-# safi-font
-friendly font i made :3
+<p align="center">
+  <img src="./safi.png" width="100%" alt="safi Font showocase">
+</p>
